@@ -1,0 +1,32 @@
+{
+  "0": {
+    "id": 0,
+    "name": "soft",
+    "color": "red",
+    "degradation_per_lap": 7.14
+  },
+  "1": {
+    "id": 1,
+    "name": "medium",
+    "color": "yellow",
+    "degradation_per_lap": 4.4625
+  },
+  "2": {
+    "id": 2,
+    "name": "hard",
+    "color": "white",
+    "degradation_per_lap": 2.6775
+  },
+  "3": {
+    "id": 3,
+    "name": "intermediate",
+    "color": "green",
+    "degradation_per_lap": 8.925
+  },
+  "4": {
+    "id": 4,
+    "name": "wet",
+    "color": "blue",
+    "degradation_per_lap": 10.71
+  }
+}
