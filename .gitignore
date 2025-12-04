@@ -1,0 +1,36 @@
+# Nuxt dev/build outputs
+.output
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# Logs
+*.log*
+logs
+loglevel
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Misc
+.DS_Store
+.fleet
+.idea
+.vscode/settings.json
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Temporary folders
+tmp/
+temp/
+#.data

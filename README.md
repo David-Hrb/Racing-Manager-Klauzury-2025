@@ -1,4 +1,4 @@
-## Used Database is SQLite, This app is not going online, but if so I would change it to mySQL or PostgreSQL. 
+## Used Database is SQLite. This app is not going online, but if so I would change it to mySQL or PostgreSQL. 
 ## How to install:
 
 ```bash
