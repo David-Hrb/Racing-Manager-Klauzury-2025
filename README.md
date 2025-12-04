@@ -1,5 +1,5 @@
-Used Database is SQLite, This app is not going online, but if so I would change it to mySQL or PostgreSQL. 
-How to install:
+## Used Database is SQLite, This app is not going online, but if so I would change it to mySQL or PostgreSQL. 
+## How to install:
 
 ```bash
 # npm
